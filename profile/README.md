@@ -55,7 +55,7 @@ Insert diagram
 
 ## Application Architecture Diagram
 
-![Architecture Diagram]()
+![ArchitectureDiagram](/docs/ArchitectureDiagram.png)
 
 
 ## Stories 
