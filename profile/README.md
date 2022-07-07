@@ -50,7 +50,6 @@ Github Repos:
 
 ## Dataflow Diagram
 
-Insert diagram
 ![Dataflow Diagram](/docs/Guilds_data_flow.drawio.png)
 
 ## Application Architecture Diagram
