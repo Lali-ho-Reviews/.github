@@ -51,7 +51,7 @@ Github Repos:
 ## Dataflow Diagram
 
 Insert diagram
-![Dataflow Diagram]()
+![Dataflow Diagram](/docs/Guilds_data_flow.drawio.png)
 
 ## Application Architecture Diagram
 
@@ -97,10 +97,12 @@ Insert diagram
 
 ## Wireframes 
 
-![Wireframes]()
-![Wireframes]()
-![Wireframes]()
-
+![Wireframes Homepage](/docs/home%20.png)
+![Wireframes Fc list ](/docs/FC-list.png)
+![Wireframes Fc Profile page](/docs/FC-profile.png)
+![Wireframes Form layouts](/docs/Basic-formlayout.png)
+![Wireframes Admin profile](/docs/Admin-profile.png)
+![Wireframes Auth user profile](/docs/Authenitcated-user-profile%20.png)
 
 ## Task Allocation & Tracking
 
