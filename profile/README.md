@@ -7,6 +7,10 @@ The website aims to provide a hub for Final Fantasy XIV players to find Free Com
 
 In this context, a “Free Company” (FC) in Final Fantasy XIV (FFXIV) is analogous to a guild or clan in any other game, in that it is essentially a social club for like minded members.
 
+### Target audience
+
+The target audience of this site would be primarily made up of players of the relevant game, but from that group could include users looking to join a FC,  FC looking to voice their opinions, and even FC Leaders  looking for feedback.
+
 ## Deployed site (coming soon)
 
 Lali-ho Reviews can be found [here]()
@@ -31,11 +35,6 @@ Github Repos:
 - User profile view to see the entire post history
 - “Like” reviews
 - Admin to ban users
-
-
-### Target audience
-
-The target audience of this site would be primarily made up of players of the relevant game, but from that group could include users looking to join a FC,  FC looking to voice their opinions, and even FC Leaders  looking for feedback.
 
 
 ### Tech stack
