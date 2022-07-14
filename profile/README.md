@@ -12,7 +12,7 @@ The target audience of this site would be primarily made up of players of the re
 
 ## Deployed site (coming soon)
 
-Lali-ho Reviews can be found [Coming Soon ]()
+Lali-ho Reviews [Coming Soon ]()
 
 Github Repos:
 [Ruby API](https://github.com/Lali-ho-Reviews/Lali-ho-React) | 
