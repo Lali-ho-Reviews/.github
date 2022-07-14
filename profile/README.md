@@ -15,7 +15,7 @@ The target audience of this site would be primarily made up of players of the re
 Lali-ho Reviews can be found [Coming Soon ]()
 
 Github Repos:
-[Ruby API](https://github.com/Lali-ho-Reviews/Lali-ho-React)
+[Ruby API](https://github.com/Lali-ho-Reviews/Lali-ho-React) | 
 [React Frontend](https://github.com/Lali-ho-Reviews/Lali-ho-API)
 
 ### Features
