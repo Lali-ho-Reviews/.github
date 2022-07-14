@@ -212,3 +212,4 @@ Tasks for the development of Lali-Ho Reviews are tracked using a Trello board [f
 - Bugs list - keep track of bugs and if we have found solutions
 
 ![Trello images](/docs/T3A2_Trello1.png)
+![Trello images](/docs/trello2.png)
