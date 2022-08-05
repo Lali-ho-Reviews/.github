@@ -223,9 +223,19 @@ We created a document for manual testing as a user and also as a deveoloper.  Th
 
 # Rspec Testing
 
+- React Router - React Router was the library in which server-side routing was implemented.  It allows the creation of single-page web or mobile applications that dont have to refresh the page each time it is used. 
 For the Rails side, we opted to utilise Rspec for a series of automated tests. These tests focused on our 3 major models: Users, Companies and Reviews. These tests include checking the creation parameters of the models, particularly users and reviews as they will be more often interacted with by the end user, routing tests to ensure that routes are set up properly and a suite of request tests, that cover all the expected and unexpected CRUD requests.
 
-# Gems
+# Libraries used
+
+### React
+
+- Flowbite & Tailwind -  Tailwind was the main styling library used with the help of Flowbite which is based on Tailwind.  These Libraries were used for all things to do with styling from implementing custom font size and colours and using what the framework provides at the same time. It made styling components inline easy and fast 
+
+- Axious - Anxious was the library which created HTTP requests from internal API's as well as getting support for request and response interception, conversion of data into JSON format, and transforming it into usable data for the application.
+
+
+### Rails
 
 The gems we utilised on Rails outside of the default ones included: 
 - Knock - Handled JWT and authentication, and was probably a poor choice considering it's out of date.
