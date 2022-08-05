@@ -220,3 +220,21 @@ Tasks for the development of Lali-Ho Reviews are tracked using a Trello board [f
 We created a document for manual testing as a user and also as a deveoloper.  The Manual testing was mainly done on the front end and had three stages of testing.  The first test was when it was first implimented, there was a second test when it had been a few days and other branches had been merged. The final test was done the day before this assignment was due as a final check over before submission
 
 ![testing image](/docs/manual.png)
+
+# Libraries used
+
+### React
+
+- Flowbite & Tailwind -  Tailwind was the main styling library used with the help of Flowbite which is based on Tailwind.  These Libraries were used for all things to do with styling from implementing custom font size and colours and using what the framework provides at the same time. It made styling components inline easy and fast 
+
+- Axious - Anxious was the library which created HTTP requests from internal API's as well as getting support for request and response interception, conversion of data into JSON format, and transforming it into usable data for the application.
+
+- React Router - React Router was the library in which server-side routing was implemented.  It allows the creation of single-page web or mobile applications that dont have to refresh the page each time it is used. 
+
+
+
+
+
+
+
+### Ruby 
