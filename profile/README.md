@@ -213,3 +213,10 @@ Tasks for the development of Lali-Ho Reviews are tracked using a Trello board [f
 
 ![Trello images](/docs/T3A2_Trello1.png)
 ![Trello images](/docs/trello2.png)
+
+
+# Manual Testing 
+
+We created a document for manual testing as a user and also as a deveoloper.  The Manual testing was mainly done on the front end and had three stages of testing.  The first test was when it was first implimented, there was a second test when it had been a few days and other branches had been merged. The final test was done the day before this assignment was due as a final check over before submission
+
+![testing image](/docs/manual.png)
