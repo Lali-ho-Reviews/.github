@@ -243,3 +243,7 @@ The gems we utilised on Rails outside of the default ones included:
 - Rspec - Main automated test suite
 - Database Cleaner - Assisted Rspec for testing
 - FactoryBot - Assisted Rspec for testing
+
+# Code Control
+
+For code control, we would break off into branched and use the GitHub function of Feature, Bug, Test with the appropriate name of what we were working on afterwards.  Once we had finished coding a pull request would be made where we could check each other's code before committing and pushing it to the main branch. We would only delete branches once we were confident that we didn't need to use them again.
