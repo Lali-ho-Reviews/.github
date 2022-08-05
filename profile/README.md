@@ -41,11 +41,11 @@ Github Repos:
 - Ruby/Ruby On Rails
 - React
 - HTML/CSS
-- Bootstrap CSS
+- Flowbite CSS
 - Tailwind CSS
 - PostgreSQL
 - Github, Heroku
-- AWS for image storage
+
 
 ## Dataflow Diagram
 
@@ -230,11 +230,6 @@ We created a document for manual testing as a user and also as a deveoloper.  Th
 - Axious - Anxious was the library which created HTTP requests from internal API's as well as getting support for request and response interception, conversion of data into JSON format, and transforming it into usable data for the application.
 
 - React Router - React Router was the library in which server-side routing was implemented.  It allows the creation of single-page web or mobile applications that dont have to refresh the page each time it is used. 
-
-
-
-
-
 
 
 ### Ruby 
