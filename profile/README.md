@@ -220,3 +220,16 @@ Tasks for the development of Lali-Ho Reviews are tracked using a Trello board [f
 We created a document for manual testing as a user and also as a deveoloper.  The Manual testing was mainly done on the front end and had three stages of testing.  The first test was when it was first implimented, there was a second test when it had been a few days and other branches had been merged. The final test was done the day before this assignment was due as a final check over before submission
 
 ![testing image](/docs/manual.png)
+
+# Rspec Testing
+
+For the Rails side, we opted to utilise Rspec for a series of automated tests. These tests focused on our 3 major models: Users, Companies and Reviews. These tests include checking the creation parameters of the models, particularly users and reviews as they will be more often interacted with by the end user, routing tests to ensure that routes are set up properly and a suite of request tests, that cover all the expected and unexpected CRUD requests.
+
+# Gems
+
+The gems we utilised on Rails outside of the default ones included: 
+- Knock - Handled JWT and authentication, and was probably a poor choice considering it's out of date.
+- pg_search - My beloved pg_search makes implementing search functions on Rails such a breeze.
+- Rspec - Main automated test suite
+- Database Cleaner - Assisted Rspec for testing
+- FactoryBot - Assisted Rspec for testing
